@@ -35,7 +35,7 @@ def cond():                                           # Condição de matriz cal
 
    if aux ==0:
       print('Pode ser implementada')
-   return aux                                                       # Retorna valor 0 ou 1 para parar o codigo
+   
 
 def div():
 
